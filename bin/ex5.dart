@@ -6,4 +6,5 @@ void main(List<String> args) {
   print('the temperature is $temperature C');
   print('the value is $value  = ${value + value}');
   print('I like $pizza and $pasta');
+  print('\\');
 }
